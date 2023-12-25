@@ -11,7 +11,7 @@
 - Python
 - Looker Data Studio
 
-## RevoBank - Customer Segmentation using K-Means Clustering :
+## Customer Segmentation using K-Means Clustering :
 <a href="https://colab.research.google.com/drive/1NIN4JenJYGFsQ3nptHccRqZWCZT5b30d?usp=sharing"> Google Colab </a>
 
 ## Situation
