@@ -41,4 +41,3 @@ And 3 clusters for Buyers were obtained, namely Moderate Activity Buyer, Lower A
 
 # Deck
 <a href="https://docs.google.com/presentation/d/1F6bQO2iyQmkftTKna6298WRj2hCkUSD2FKM6KXGJSLs/edit?usp=sharing"> Customer Segmentation Analysis</a>
-<a href="https://drive.google.com/file/d/1qyLEh7ffM89JBqP5BqNBcGRthj4HR8Yf/view?usp=share_link"> KMeans Clustering</a>
